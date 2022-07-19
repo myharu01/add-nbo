@@ -10,8 +10,8 @@ uint32_t my_ntohl (uint32_t n){
 }
 
 int main(int argc, char* argv[]){
-	char name[] = "홍길동";
-	char mobile[] = "8908";
+	char name[] = "안두혁";
+	char mobile[] = "7446";
 	printf("[bob11]add-nbo[%s%s]", name, mobile);
 
 	uint32_t n,n2;
